@@ -164,7 +164,7 @@ mern-final-project/
 
 ### Live Application
 - **Frontend**: [Link to deployed frontend]
-- **Backend API**: [Link to deployed backend]
+- **Backend API**: [https://mern-final-project-joffopiyo.onrender.com](https://mern-final-project-joffopiyo.onrender.com)
 
 ## 📝 API Endpoints
 
